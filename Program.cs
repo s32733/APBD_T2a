@@ -10,5 +10,6 @@ public decimal CalculateAverage(int[] values)
 
 public int CalculateMax(int[] values)
 {
+    int value;
     return values.Max();
 }
