@@ -1,0 +1,1 @@
+Task5 - both branches advanced after split, fast-forward was impossible
