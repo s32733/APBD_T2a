@@ -13,3 +13,8 @@ public int CalculateMax(int[] values)
     int value;
     return values.Max();
 }
+
+public int CalculateMin(int[] value)
+{
+    return values.Min();
+}
